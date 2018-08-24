@@ -28,3 +28,7 @@ E o segundo denominado de "TodoList" que é um aplicativo de **Lista de Tarefas*
 * Java 8;
 * Orientação a Objetos com Java;
 * Android Básico.
+
+## Telas da Aplicação
+![Principal](https://raw.githubusercontent.com/vs0uz4/cr_android_intermediario/master/assets/main.png)
+![Adicionar](https://raw.githubusercontent.com/vs0uz4/cr_android_intermediario/master/assets/add.png)
