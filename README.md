@@ -30,5 +30,5 @@ E o segundo denominado de "TodoList" que é um aplicativo de **Lista de Tarefas*
 * Android Básico.
 
 ## Telas da Aplicação
-![Principal](https://raw.githubusercontent.com/vs0uz4/cr_android_intermediario/master/assets/main.png)
-![Adicionar](https://raw.githubusercontent.com/vs0uz4/cr_android_intermediario/master/assets/add.png)
+![Principal](https://raw.githubusercontent.com/vs0uz4/cr_android_intermediario/master/assets/main.png | width=230)
+![Adicionar](https://raw.githubusercontent.com/vs0uz4/cr_android_intermediario/master/assets/add.png | width=230)
